@@ -1,6 +1,6 @@
 # Portal
 
-This program basically makes navigation in the school easier, It's coded in %100 python.
+This program basically makes navigation in the school easier, It's coded in 100% python.
 
 ## Supported keywords:
 
