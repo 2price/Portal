@@ -22,7 +22,8 @@ english
 law
 media
 computing
-art
+viscom
+posed
 ```
 
 ## Supported grades:
