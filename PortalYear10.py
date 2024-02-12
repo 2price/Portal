@@ -15,7 +15,7 @@ def tsu():
  \ \_\    \ \_____\  \ \_\ \_\    \ \_\  \ \_\ \_\  \ \_____\ 
   \/_/     \/_____/   \/_/ /_/     \/_/   \/_/\/_/   \/_____/ 
                                                               
-                              < Created By Cohen Turner >
+                                   < Created By Cohen >
     < Year 10 Edition, you can view more versions @https://github.com/2price/Portal/tree/main >
                                                                                                               
 {Fore.RESET}''')
