@@ -8,6 +8,10 @@ This program basically makes navigation in the school enviorment easier, It's co
 - Step 2: Open the extracted *dist* folder and run the executable
 - Step 3: If it shows a privacy and security alert, open settings - go to privacy and security - scroll down - press "allow"
 - Step 4: Run it again, it should work
+
+## Upcoming Features:
+
+- Userauth: automate logging in by being able to change your logged in account
   
 ## Supported keywords:
 
