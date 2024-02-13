@@ -21,6 +21,8 @@ This program is a much easier, accessible way to navigate school environments. I
 - Commands - Adds commands such as "auth =", "help" and "browser ="
 - Global browser - Adds support for different browsers, no matter what default one is selected
 - Google docs & google slides support
+- Compass support
+- Custom user keywords
   
 ## Supported keywords:
 
