@@ -18,8 +18,8 @@ This program is a much easier, accessible way to navigate school environments. I
 
 ## Upcoming Features:
 
-- Userauth: automate logging in by being able to change your logged in account (ADDED!)
-- Advanced/VCE classes (ADDED!)
+- Commands - Adds commands such as "auth =", "help" and "browser ="
+- Global browser - Adds support for different browsers, no matter what default one is selected
   
 ## Supported keywords:
 
