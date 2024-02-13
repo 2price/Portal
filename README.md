@@ -9,7 +9,7 @@ This program is a much easier, accessible way to navigate school environments. I
 - Step 3: If it shows a privacy and security alert, open settings - go to privacy and security - scroll down - press "allow"
 - Step 4: Run it again, it should work
 
-## How to get *"authuser":*
+## How to get *"auth-account number":*
 
 - Step 1: Log into google classroom under your school account
 - Step 2: There should be a link that looks like this: *"https://classroom.google.com/u/3/h"*
